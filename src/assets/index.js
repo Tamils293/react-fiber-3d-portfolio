@@ -65,7 +65,7 @@ export {
   carrent,
   jobit,
   MMP,
-  Deloitte
+  Deloitte,
   hackerNews,
   HiBro,
   tripguide,
