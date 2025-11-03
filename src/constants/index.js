@@ -28,7 +28,7 @@ import {
   Perpetuuiti,
   MMP,
   HiBro,
-
+  Deloitte,
   tindog,
 } from "../assets";
 
@@ -178,6 +178,20 @@ const experiences = [
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
+  {
+  title: "Consultant (Full Stack Developer)",
+  company_name: "Deloitte",
+  icon: Deloitte,
+  iconBg: "#fff",
+  date: "Feb 2024 - Present",
+  points: [
+    "Designing and developing scalable web applications using React.js, TypeScript, and Node.js for enterprise clients in the technology and pharmaceutical domains.",
+    "Building and optimizing internal platforms for major clients including Pfizer, Amgen, Moody’s, and Eli Lilly.",
+    "Collaborating closely with cross-functional teams to deliver high-performance, secure, and maintainable full-stack solutions.",
+    "Integrating REST and GraphQL APIs, improving system reliability and frontend performance across large datasets.",
+    "Contributing to reusable component libraries and enforcing code quality through code reviews and testing best practices."
+  ],
+},
 ];
 
 const testimonials = [
