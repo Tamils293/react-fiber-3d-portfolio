@@ -27,6 +27,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import Perpetuuiti from "./company/perpetuuiti_logo.jfif";
 import MMP from "./company/magicmenporulprivatelimited_logo.jfif"
+import MMP from "./company/deloitte.svg"
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import HiBro from "./hibro.png"
